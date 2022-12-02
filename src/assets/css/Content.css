@@ -1,0 +1,8 @@
+.content {
+  width: 1112px;
+  height: 620px;
+  display: flex;
+  justify-content: center;/* me orizontalmente*/
+  align-items: center; /* me centra verticalmente */
+  background-color: RGB(243, 234, 227);
+}
