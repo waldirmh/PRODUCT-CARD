@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/PRODUCT-CARD/static/css/main.487a85a2.css",
-    "main.js": "/PRODUCT-CARD/static/js/main.f07abee1.js",
-    "static/js/787.e38799d6.chunk.js": "/PRODUCT-CARD/static/js/787.e38799d6.chunk.js",
+    "main.js": "/PRODUCT-CARD/static/js/main.f5afe9d5.js",
+    "static/js/787.8f356c84.chunk.js": "/PRODUCT-CARD/static/js/787.8f356c84.chunk.js",
     "static/media/image-product-desktop.jpg": "/PRODUCT-CARD/static/media/image-product-desktop.c96d43af17111fe78e96.jpg",
     "index.html": "/PRODUCT-CARD/index.html",
     "static/media/icon-cart.svg": "/PRODUCT-CARD/static/media/icon-cart.9606ad84b7565a3f523f9429396f8066.svg",
     "main.487a85a2.css.map": "/PRODUCT-CARD/static/css/main.487a85a2.css.map",
-    "main.f07abee1.js.map": "/PRODUCT-CARD/static/js/main.f07abee1.js.map",
-    "787.e38799d6.chunk.js.map": "/PRODUCT-CARD/static/js/787.e38799d6.chunk.js.map"
+    "main.f5afe9d5.js.map": "/PRODUCT-CARD/static/js/main.f5afe9d5.js.map",
+    "787.8f356c84.chunk.js.map": "/PRODUCT-CARD/static/js/787.8f356c84.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.487a85a2.css",
-    "static/js/main.f07abee1.js"
+    "static/js/main.f5afe9d5.js"
   ]
 }
