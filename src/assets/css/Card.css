@@ -85,6 +85,8 @@
   height: 15px;
   margin-right: 5px;
 }
+
+
 /*   responsive  */
 @media (max-width: 376px) {
   .content {
@@ -144,3 +146,6 @@
     margin-right: 5px;
   }
 }
+
+
+

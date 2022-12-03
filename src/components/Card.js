@@ -5,7 +5,7 @@ import iconcard from "../assets/imagens/icon-cart.svg";
 function Card() {
   return (
     <div className="card">
-      <img src={image} />
+      <img src={ image} alt="image card" />
       <div className="description">
         <h4>Perfume</h4>
         <h1>Gabrielle Essence Eau De Parfum</h1>
