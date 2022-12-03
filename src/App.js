@@ -7,7 +7,7 @@ function App() {
     <React.Fragment>
       {/*     <Section /> */}
       {/*  <Content /> */}
-
+<h1> pratica de product con react </h1>
       <section>
         <Content />
       </section>
